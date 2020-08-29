@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Basilik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Basilik\\.nuget\\packages"
+    ]
+  }
+}

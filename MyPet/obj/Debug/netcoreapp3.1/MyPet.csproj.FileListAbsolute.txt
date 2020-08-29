@@ -1,0 +1,13 @@
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.exe
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.deps.json
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.runtimeconfig.json
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.runtimeconfig.dev.json
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.dll
+C:\Users\Basilik\source\repos\MyPet\MyPet\bin\Debug\netcoreapp3.1\MyPet.pdb
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.csprojAssemblyReference.cache
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.csproj.CoreCompileInputs.cache
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.AssemblyInfoInputs.cache
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.AssemblyInfo.cs
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.dll
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.pdb
+C:\Users\Basilik\source\repos\MyPet\MyPet\obj\Debug\netcoreapp3.1\MyPet.genruntimeconfig.cache
